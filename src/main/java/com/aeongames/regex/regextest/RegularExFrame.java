@@ -86,7 +86,7 @@ public class RegularExFrame extends javax.swing.JFrame {
         cbStopWhole = new javax.swing.JCheckBox();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Regular Expresion Tester");
+        setTitle("Regular Expression Tester");
 
         jLabel1.setText("Regular Expresion");
 
